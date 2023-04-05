@@ -1,7 +1,14 @@
 [
   {
-    "key": "PKR",
-    "latitude": -16.911576006236498,
-    "longitude": -39.52235664839304,
-    "name": "POPRURAL"
+    "key": "SE",
+    "latitude": 60.128161,
+    "longitude": 18.643501,
+    "name": "Sweden"
+  },
+  {
+    "key": "US",
+    "latitude": 37.09024,
+    "longitude": -95.712891,
+    "name": "United States"
   }
+]
